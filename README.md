@@ -2,7 +2,7 @@
 - 👀 I’m interested in DLCV
 - 🌱 I’m currently learning DLNLP
 - 💞️ I’m looking to collaborate with Service/Product based Top MNC Companies
-- 📫 How to reach me ...8143666087
+- 📫 How to reach me ...2267872500
 
 <!---
 Venkatdinesh20/Venkatdinesh20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
