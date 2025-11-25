@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Venkatdinesh20
 - 👀 I’m interested in DLCV
 - 🌱 I’m currently learning DLNLP
-- 💞️ I’m looking to collaborate with Service/Product based Top MNC Companies
+- 💞️ I’m looking to collaborate with Service/Product based Companies
 - 📫 How to reach me ...2267872500
 
 <!---
