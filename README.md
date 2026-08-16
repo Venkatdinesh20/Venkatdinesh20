@@ -32,6 +32,8 @@ I'm **VenkatDinesh Pasupuleti**, a **Senior AI/ML Engineer** with **8+ years** o
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **Agentic AI & LLMs**
 
@@ -72,6 +74,8 @@ I'm **VenkatDinesh Pasupuleti**, a **Senior AI/ML Engineer** with **8+ years** o
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 `REST APIs` `Microservices` `Async Workflows` `Webhook / Event-Driven Integration` `OAuth 2.0` `JWT` `MFA` `RBAC`
 
