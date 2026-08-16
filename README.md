@@ -133,8 +133,8 @@ I'm **VenkatDinesh Pasupuleti**, a **Senior AI/ML Engineer** with **8+ years** o
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Venkatdinesh20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatdinesh20&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Venkatdinesh20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Venkatdinesh20&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
 
 <img src="https://streak-stats.demolab.com/?user=Venkatdinesh20&theme=tokyonight&hide_border=true" width="60%"/>
 
@@ -146,7 +146,7 @@ I'm **VenkatDinesh Pasupuleti**, a **Senior AI/ML Engineer** with **8+ years** o
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Venkatdinesh20&theme=darkhub&no-frame=true&row=2&column=4" width="90%"/>
+<img src="https://github-trophies.vercel.app/?username=Venkatdinesh20&theme=darkhub&no-frame=true&row=2&column=4" width="90%"/>
 
 </div>
 
